@@ -1,0 +1,25 @@
+{
+  "name": "Progracao-AutomacaoDeTestes-js",
+  "version": "1.0.0",
+  "description": "Projeto final da disciplina Programação para Automação de Testes - Pós-Graduação em Automação de Testes de Software",
+  "type": "module",
+  "main": "trabalho.js",
+  "scripts": {
+    "test": "npx mocha test\\trabalho.test.js"
+  },
+  "keywords": [
+    "javascript",
+    "mocha",
+    "testes",
+    "automacao",
+    "pos-graduacao"
+  ],
+  "author": "Joice Caroline Felix",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
