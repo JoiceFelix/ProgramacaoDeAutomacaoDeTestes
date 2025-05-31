@@ -1,0 +1,169 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Package managers
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.pnpm-store/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+.coverage/
+*.lcov
+.nyc_output/
+
+# Mocha test reports
+test-results.xml
+mochawesome-report/
+test-output/
+.mocha-parallel-tests/
+
+# Build outputs
+dist/
+build/
+lib/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional TypeScript incremental compilation
+.tsbuildinfo
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# Webpack
+.webpack/
+
+# ESLint
+.eslintcache
+
+# Prettier
+.prettierignore
+
+# Babel
+.babelrc.local
+.babelrc.*.local
+
+# Jest (se usado junto com Mocha)
+jest_*
+
+# Storybook build outputs
+storybook-static
+
+# Next.js
+.next
+
+# Gatsby
+.cache/
+public
+
+# Nuxt.js
+.nuxt
+dist
+
+# VuePress
+.vuepress/dist
+
+# Docusaurus
+.docusaurus
+
+# Local development
+.local
